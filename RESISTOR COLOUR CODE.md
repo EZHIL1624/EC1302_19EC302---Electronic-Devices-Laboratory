@@ -1,78 +1,64 @@
-# RESISTOR COLOUR CODE
+# CHARACTERISTICS OF ZENER DIODE
 
 ## AIM: 
 
-To learn Resistor Colour Code and to determine the stated value of a resistor by interpreting the colour code indicated on the resistor. 
+ To plot the V-I characteristics of ZENER diode. 
 
  
 ## APPARATUS REQUIRED
 
-Resistors – 5 No’s.
+<img width="1000" height="310" alt="image" src="https://github.com/user-attachments/assets/257bc402-0d33-422e-a6ba-c74aaa74e733" />
 
 
 ## THEORY
-The colour bands on the body of the resistor tell how much resistance it has. As shown in the following diagrams figure (1), there is a 4-band resistors. The 4-band resistors, the last band indicates tolerance in table (1). Consult with the “Resistor colour codes and Resistor Tolerance” in table (2) chart for finding the tolerance value.
-The first letter word to represent color resistor code in table (1)
-<img width="403" height="13" alt="image" src="https://github.com/user-attachments/assets/a445783d-c147-4cfb-9ee7-c79237852dfa" />
+## ZENER DIODE
+The diodes, which are designed to operate in the breakdown region, are called the Zener diode. The other name is AVALANCHE diode. There are two types of breakdown in these diodes they are Avalanche and Zener breakdown. In avalanche breakdown the, conduction in reverse bias is due to avalanche multiplication of charge carrier. In Zener diode is breakdown is due to direct rupture of covalent bonds because of strong electric field. The actual intensity of the electric field strength that produces Zener breakdown voltage. Avalanche breakdowns will have higher breakdown voltages from several volts to several hundred volts.
+## CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-11-22 at 21 19 48_7c89260e](https://github.com/user-attachments/assets/fbcd1651-46d2-4543-b31e-bd905967d775)
 
-## (Or) BBROY Great Britain Very Good Wife
+## FORWARD BIAS:
+![WhatsApp Image 2025-11-22 at 21 18 01_162eb12d](https://github.com/user-attachments/assets/4ce7cdb9-629b-4ce9-b61b-340357119733)
 
-View the resistors and based on the color bands determine its value. Below is an example:
-<img width="465" height="103" alt="image" src="https://github.com/user-attachments/assets/f705a496-eabe-4df0-a164-6c3477be407a" />
+## REVERSE BIAS:
+![WhatsApp Image 2025-11-22 at 21 18 01_d752fb9f](https://github.com/user-attachments/assets/6b65e4b7-60f1-419d-b836-e1c2e61ef3d8)
 
-The first band is a one (1), the second band is a zero (0), and the multiplier band or third band is one time text to the third power (103) or one thousand (1000). Multiply 10  times 1000.
-Determine the value and tolerance of the 10 resistors as shown in the following tables for chart fig. (3):
+## MODEL GRAPH:
+![WhatsApp Image 2025-11-22 at 21 23 29_3be8c077](https://github.com/user-attachments/assets/f46f65d9-e750-4625-a0c6-7d677d0baf21)
 
-<img width="981" height="1203" alt="image" src="https://github.com/user-attachments/assets/b61d7a3f-d6b1-4874-a287-a79b8ba0a6c6" />
+## PROCEDURE:  
+## FORWARD BIAS 
+1. The connections are made as per the circuit diagram.
+2. The power supply Current Overload is kept at maximum and then switched on.
+3. The forward voltage V<sub>f</sub> is increased in small steps and readings are tabulated. 
+4. A graph is drawn between V<sub>f</sub> and I<sub>f</sub>.
+5. The slope of linear portion of graph gives forward resistance and Q point is located. 
 
-## 1. Calculate the value of each resistor below based on its color code.
-<img width="944" height="1180" alt="image" src="https://github.com/user-attachments/assets/d800f30d-8cc1-4332-bc40-71601dc6556b" />
+## REVERSE BIAS 
+1. The connections are made as per the circuit diagram.
+2. Multimeter current ranges are used to measure the reverse current.
+3. The power supply is switched on and supply voltage is gradually increased.
+4. As the reverse bias voltage reaches the breakdown voltage the current through the diode increases rapidly.
+5. The breakdown voltage is noted before the breakdown and connection is changed such that lower range ammeter is included in the circuit.
+6. Graph is drawn between V<sub>r</sub> and I<sub>r</sub>.
+7. The reverse conduction region is extended to meet at a point. The value at this point is V<sub>rb</sub>. 
 
+## FORMULA USED
 
-## Table 2-2
-![WhatsApp Image 2025-11-22 at 21 38 59_15e60ad0](https://github.com/user-attachments/assets/7b068be4-ee1c-434b-9f03-5dd4725e38cf)
+**Forward Resistance**  **R<sub>F</sub> = ΔV<sub>F</sub> / ΔI<sub>F</sub> (Ω)**  
 
-## Table 2-3
-![WhatsApp Image 2025-11-22 at 21 38 59_d0c69f6f](https://github.com/user-attachments/assets/2fab490c-297e-425a-846f-ccbe15464300)
+**Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
-## Table 2-4
-![WhatsApp Image 2025-11-22 at 21 38 58_26b56278](https://github.com/user-attachments/assets/8fdb930c-880f-4ca0-8f45-f5249029b673)
-
-## Table 2-5
-![WhatsApp Image 2025-11-22 at 21 38 58_b0761fe6](https://github.com/user-attachments/assets/0190ac28-d01f-40a3-ad3b-0aa789d375b1)
-
-## Table 2-6
-![WhatsApp Image 2025-11-22 at 21 38 57_88a8c7ab](https://github.com/user-attachments/assets/d00657ee-73fb-40b8-83b2-86bc873b9e66)
-
-## Table 2-7
-![WhatsApp Image 2025-11-22 at 21 38 56_586f67f0](https://github.com/user-attachments/assets/3e0b2b86-b947-4acc-8742-0ab1496e5f3a)
-
-## Table 2-8
-![WhatsApp Image 2025-11-22 at 21 42 43_468427d4](https://github.com/user-attachments/assets/eec55127-0fcc-4248-8ec3-f751f3536816)
-
-## Table 2-9
-![WhatsApp Image 2025-11-22 at 21 38 56_0ccdeae4](https://github.com/user-attachments/assets/749fd73c-a069-49b5-a225-e7a183477deb)
-
-## Table 2-10
-![WhatsApp Image 2025-11-22 at 21 38 55_88249e8d](https://github.com/user-attachments/assets/0c2be185-3d40-42a9-8e61-1d8c8b8b455a)
-
-## Table 2-11
-![WhatsApp Image 2025-11-22 at 21 38 54_fc8981cd](https://github.com/user-attachments/assets/71f46e7e-61d4-4039-81c9-9e5bc51595e5)
-
-## 2.	Record resistor colors gave to its value in below :
-## i) 4.7 KΩ ± 5%  
-
-## ii) 910 Ω ± 10%  
-
-## iii) 12 KΩ ± 5%  
-
-## iv) 6.8 KΩ ± 20%  
-
-## v) 47 KΩ ± 20%  
-
-## 3.	Find out the resistor value and tolerance of the 5 resistors provided using colour coding.
-![WhatsApp Image 2025-11-22 at 21 43 56_d95e6b63](https://github.com/user-attachments/assets/975227e1-43c3-4978-a6dd-7f0d687ce74e)
+## TABULATION:
+![WhatsApp Image 2025-11-22 at 21 27 31_9f61bc98](https://github.com/user-attachments/assets/293248a9-5030-4c95-bf31-aab7fcb7f692)
 
 
-## RESULT:
- Thus the resistor value and tolerance of the provided resistors were calculated successfully.
+## CALCULATIONS:
+![WhatsApp Image 2025-11-22 at 21 28 05_c41d32d6](https://github.com/user-attachments/assets/73a64577-b9be-42b8-94c2-fe50ffdc5fd2)
+
+
+
+## GRAPH:
+![WhatsApp Image 2025-11-22 at 21 17 23_ee157531](https://github.com/user-attachments/assets/eaa6c9bb-6cfc-441c-ab95-5888d195ef17)
+
+ ## RESULT:
+ Thus the Zener diode characteristics were studied.
